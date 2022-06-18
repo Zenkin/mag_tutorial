@@ -1,17 +1,14 @@
-Welcome to Lumache's documentation!
+Добро пожаловать в документацию по обучению алгоритмов МО для посадки Tello
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Эта инструкция написана для того, чтобы любой желающий мог повторить наш эксперимент и обучить алгоритм ИИ, способный обнаруживать объекты интереса на изображении. Для обучения моделей были использованы ресурсы Google Colab, поэтому требования к аппаратуре довольно низкие. Любой современный ноутбук легко позволит вам выполнить все пункты. Однако для корректной работы потребуется стабильное подключение к Интернету. Эти инструкции были написаны для пользователей, не имеющих опыта работы с ИИ. Если вы относитесь к числу новичков, просто выполняйте шаги по порядку. Примечание: Предполагается, что на момент начала у вас уже есть набор данных из ~ 1000 немаркированных кадров (видео, которое содержит не менее 1000 кадров).
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Документаци в процессе разработки
 
 Contents
 --------
